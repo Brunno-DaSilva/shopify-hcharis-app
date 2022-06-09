@@ -6,10 +6,10 @@
 
 Simple Shopify "Hello World" store based on my Helena Charis Project.
 
-## Shopify Installation process for Windows Subsystem for Linux
+### Shopify Installation process for Windows Subsystem for Linux
 
 1. Enable Windows Subsystem
-   A. Go to Control Panel >Program and Features > Turn Windows feature on or off >> Check the box - Windows Subsystem for Linux
+   A. Go to `Control Panel` > `Program and Features` > `Turn Windows feature on or off` >> Check the box - `Windows Subsystem for Linux`
 2. Re-start your PC
 3. Go to Microsoft Store and install your Linux Subsystem
    A. I choose Unbuntu v20.04.4 LTS
@@ -21,17 +21,17 @@ Simple Shopify "Hello World" store based on my Helena Charis Project.
    B. Ensure nvm loader is added at the bottom of the .bashrc file by running ->
    1. `cat /home/bruni-wan-kenobi/.bashrc `
    2. Restart your Bash terminal
-   3. Run `nvm install node `
+   3. Run `nvm install node`
    4. `npm -v `
    5. `node -v`
 6. Install the additional "dependencies" needed:
-   `sudo apt update`
-   `sudo apt-get update`
-   `sudo apt install ruby`
-   `sudo apt-get install ruby-full`
-   `sudo apt-get install build-essential`
-   `sudo apt-get install bison openssl curl git-core zlib1g zlib1g-dev libssl-dev libyaml-dev libxml2-dev autoconf libc6-dev ncurses-dev automake libtool`
-   `sudo gem install shopify-cli`
+   - `sudo apt update`
+   - `sudo apt-get update`
+   - `sudo apt install ruby`
+   - `sudo apt-get install ruby-full`
+   - `sudo apt-get install build-essential`
+   - `sudo apt-get install bison openssl curl git-core zlib1g zlib1g-dev libssl-dev libyaml-dev libxml2-dev autoconf libc6-dev ncurses-dev automake libtool`
+   - `sudo gem install shopify-cli`
 
 ---
 
