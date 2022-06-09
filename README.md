@@ -4,6 +4,8 @@
 
 ### Overview:
 
+Simple Shopify "Hello World" store based on my Helena Charis Project.
+
 ## Shopify Installation process for Windows Subsystem for Linux
 
 1. Enable Windows Subsystem
