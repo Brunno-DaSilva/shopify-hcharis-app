@@ -9,8 +9,7 @@ import {
   Heading,
 } from "@shopify/polaris";
 
-import trophyImgUrl from "../assets/home-trophy.png";
-import hcLogo from "../assets/hcharis-HC.svg";
+import hcLogo from "../assets/hcharis-01.svg";
 
 import { ProductsCard } from "./ProductsCard";
 
