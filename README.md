@@ -1,3 +1,5 @@
+<img src="https://res.cloudinary.com/duprwuo4j/image/upload/v1596833062/h-charis-online-store/3_lmcig0.png" width="600px" alt="HC Banner" >
+
 # Shopify HCharis App
 
 ### Overview:
