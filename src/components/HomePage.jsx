@@ -9,9 +9,7 @@ import {
   Heading,
 } from "@shopify/polaris";
 
-import hcLogo from "../assets/hcharis-01.svg";
-
-import { ProductsCard } from "./ProductsCard";
+import HCLogo from "../assets/hcharis-01.svg";
 
 export function HomePage() {
   return (
@@ -23,7 +21,7 @@ export function HomePage() {
         onAction: () => console.log("clicked"),
       }}
     >
-      <Image source={hcLogo} alt="HC Logo" width={150} />
+      <Image source={HCLogo} alt="HC Logo" width={150} />
     </Page>
   );
 }
